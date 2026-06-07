@@ -7,7 +7,7 @@
 
 As an Operations Manager at an Amazon Delivery Station, I led a team of 2 managers and 50+ associates across a high-volume last-mile logistics operation. This project applies SQL analytics to five operational business questions — moving from raw data to strategic recommendations that directly impact cost, efficiency, and delivery performance.
 
-The goal: demonstrate that operational knowledge combined with analytical skills can drive strategic decisions — not just describe what happened, but diagnose why and recommend what to change.
+The goal: demonstrate that operational knowledge combined with analytical skills can drive strategic decisions — not just describe what happened, but diagnose why and recommend what to change. The analytical frameworks here — gap analysis, bottleneck identification, root cause classification, capacity modelling — apply directly to any operations or marketplace environment
 
 ---
 
